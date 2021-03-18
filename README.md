@@ -1,3 +1,6 @@
+### For git clone
+### `git clone --branch master https://github.com/makeittech/cakephp_userskills.git`
+
 ### Setting
 
 
