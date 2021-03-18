@@ -15,6 +15,9 @@ use Cake\ORM\Query;
  */
 class UsersController extends AppController
 {
+    public function login(){
+        return $this->redirect('/login');
+    }
     /**
      * Index method
      *
